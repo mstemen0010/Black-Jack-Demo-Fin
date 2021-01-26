@@ -1,2 +1,3 @@
 # Black Jack Demo Fin
- test
+docs are under html/index.html once you have pulled down files locally 
+docs are via doxygen 
